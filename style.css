@@ -34,7 +34,7 @@ h1 {
     width: 8px;
     margin: 1px;
     height: 8px;
-    transition: ease 2s;
+    transition: ease 1s;
 }
 
 .square:hover {
